@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Expenses-Manager-App/static/css/main.ccb7cf1b.chunk.css",
+    "main.js": "/Expenses-Manager-App/static/js/main.af831223.chunk.js",
+    "main.js.map": "/Expenses-Manager-App/static/js/main.af831223.chunk.js.map",
+    "runtime-main.js": "/Expenses-Manager-App/static/js/runtime-main.7aa347fd.js",
+    "runtime-main.js.map": "/Expenses-Manager-App/static/js/runtime-main.7aa347fd.js.map",
+    "static/js/2.5afc8f21.chunk.js": "/Expenses-Manager-App/static/js/2.5afc8f21.chunk.js",
+    "static/js/2.5afc8f21.chunk.js.map": "/Expenses-Manager-App/static/js/2.5afc8f21.chunk.js.map",
+    "index.html": "/Expenses-Manager-App/index.html",
+    "static/css/main.ccb7cf1b.chunk.css.map": "/Expenses-Manager-App/static/css/main.ccb7cf1b.chunk.css.map",
+    "static/js/2.5afc8f21.chunk.js.LICENSE.txt": "/Expenses-Manager-App/static/js/2.5afc8f21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aa347fd.js",
+    "static/js/2.5afc8f21.chunk.js",
+    "static/css/main.ccb7cf1b.chunk.css",
+    "static/js/main.af831223.chunk.js"
+  ]
+}
